@@ -5,8 +5,10 @@ const Projects = () => {
     {
       title: 'Predictive Analysis of Treasury Bill Risk and Yield',
       description:
-        'Developed a hybrid predictive model using econometrics and machine learning to forecast Treasury Bill yields and assess associated financial risks in Sri Lanka',
-      tags: ['Machine Learning', 'Econometrics', 'Financial Analysis', 'Python'],
+        'Hybrid predictive model for Sri Lankan Treasury Bill yields integrating macroeconomic and microeconomic indicators with machine learning and econometric techniques. Includes risk analysis, yield curves, and an interactive dashboard for real-time financial insights.',
+      tags: ['Machine Learning', 'Econometrics', 'Financial Analysis', 'Python','Time Series Forecasting'],
+      github:
+        'https://github.com/it21473524/Predictive-Analysis-of-Treasury-Bill-Risk-and-Yield',
     },
     {
       title: 'Monitoring Book API with Prometheus & Grafana',
