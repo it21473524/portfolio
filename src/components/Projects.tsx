@@ -46,13 +46,13 @@ const Projects = () => {
       github: 'https://github.com/IT21248030/Hospital_Management_System',
     },
     {
-      title: 'Geospatial & Climate Analysis',
+      title: 'Customer Churn Analysis Dashboard',
       description:
-        'Processed satellite imagery, developed hazard maps, and performed exposure-vulnerability assessments using Python, QGIS, and ArcGIS Pro',
-      tags: ['GIS', 'Remote Sensing', 'Climate Analysis', 'Python', 'QGIS'],
-    },
-  ];
-
+        'PAn end to end Power BI project analyzing bank customer churn, including data preparation, modeling, DAX calculations, and interactive dashboard creation, published to Power BI Service',
+      tags: ['Power BI', 'Data Visualization', 'Dashboard Design', 'Data Modeling', 'Report Publishing (Power BI Service)', 'Business Insights & Analytics', 'KPI Analysis'],
+      github: 'https://github.com/it21473524/Customer-Churn-Analysis',
+    }
+  ]
   return (
     <section id="projects" className="py-20 px-4 bg-slate-50">
       <div className="max-w-6xl mx-auto">
